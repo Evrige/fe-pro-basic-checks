@@ -115,4 +115,4 @@ describe('different methods', () => {
       expect(log).toHaveBeenCalledTimes(6);
     });
   });
-});
+ });
